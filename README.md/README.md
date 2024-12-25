@@ -95,8 +95,8 @@ To view or modify this project, ensure you have the following installed:
 ## Screenshots
 
 ### Homepage
-![Screenshot Description](relative/path/to/image.png)
-![Screenshot Description] (C:/Users/test/Desktop/HTML-CSS-Course- SuperSimpleDev/HTML-CSS\README.md/Assets/homepage.png)
+![Screenshot Description](Assets/homepage.png)
+
 
 ### Lessons Learned
 - The importance of structured HTML for accessibility.
