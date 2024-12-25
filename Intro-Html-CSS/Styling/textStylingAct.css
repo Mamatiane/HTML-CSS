@@ -1,0 +1,82 @@
+p {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    margin-bottom: 20px;
+}
+
+.link {
+    color: rgb(58, 108, 199);
+}
+
+.new-apple {
+    color: rgb(245, 99, 0);
+    margin-bottom: 10px;
+}
+
+.product-apple {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.title-apple {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.price-apple {
+    margin-bottom: 25px;
+}
+
+.buy-button {
+    background-color: rgb(0, 113, 227);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.price {
+    text-align: left;
+    font-size: 32px;
+    margin-bottom: 5px;
+}
+
+.currency {
+    text-align: left;
+    font-size: 16px;
+    color: rgb(100, 100, 100);
+}
+
+.change {
+    text-align: left;
+    color: rgb(24, 128, 56);
+    margin-bottom: 8px;
+}
+
+.after-hours {
+    text-align: left;
+    color: rgb(100, 100, 100);
+}
+
+.after-hours-change {
+    text-align: left;
+    color: rgb(235, 39, 39);
+}
